@@ -2,4 +2,4 @@
 Homework for the course
 
 
-В данном репозитории будут хранится работы с курса - https://stepik.org/course/575/syllabus
+Это репозиторий для хранения домашних работ по курсу автоматизации тестирования на Stepik будут - https://stepik.org/course/575/syllabus
